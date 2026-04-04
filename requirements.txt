@@ -1,0 +1,12 @@
+torch>=2.0.0
+transformers>=4.36.0
+z3-solver>=4.12.0
+pyswip>=0.2.10
+datasets>=2.16.0
+numpy>=1.24.0
+scipy>=1.10.0
+bitsandbytes>=0.42.0
+accelerate>=0.25.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
